@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Design Optimisation for an Efficient Wireless Power Transfer System for Electric Vehicles
-description: description of the short project which is long enough
+title: Efficient WPT for Electric Vehicles
+description: Design Optimisation for an Efficient Wireless Power Transfer System for Electric Vehicles
 ---
 
 Example taken from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
