@@ -18,9 +18,9 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 #facebook: "#"
-twitter: "https://twitter.com/varchanaiyer_"
-linkedin: "https://www.linkedin.com/in/archana-iyer/"
-github: "https://github.com/varchanaiyer"
+twitter: "#varchanaiyer_"
+linkedin: "#archana-iyer"
+github: "#varchanaiyer"
 #researchgate: "#"
 #orcid: "#"
 
