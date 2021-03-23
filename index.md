@@ -7,8 +7,7 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
-
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
-
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+I work as an AI Engineer at Continental Automotive. 
+My field of work in TinyML i.e applying machine learning models to small devices with low power and memory requirements. This means that microcontrollers excite me and I love working in this applied AI field. 
+After work, you can usually find me voluntering at Women Who Code, where I co-lead the cloud and python track as a Leadership Fellow. Apart from that, I actively participate in TinyML and WIML events. 
+In the weekends, I cycle around this tiny island called Singapore and blog my journey here.
