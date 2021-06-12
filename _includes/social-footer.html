@@ -3,7 +3,7 @@
 {%- if site.email -%}
 <a title="{{ _locale_string_email }}"
 class="social-button email" itemprop="email"
-href="mailto:{{ varchanaiyer139@gmail.com | encode_email }}" target="_blank">
+href="mailto:{{ site.email | encode_email }}" target="_blank">
 <i class="far fa-envelope"></i>
 </a>
 {%- endif -%}
@@ -11,7 +11,7 @@ href="mailto:{{ varchanaiyer139@gmail.com | encode_email }}" target="_blank">
 {%- if site.linkedin -%}
 <a title="{{ _locale_string_follow | replace: '[NAME]', 'LinkedIn' }}"
 class="social-button linkedin"
-href="https://www.linkedin.com/in/{{archana-iyer/}}" itemprop="sameAs"
+href="https://www.linkedin.com/in/{{site.linkedin}}" itemprop="sameAs"
 target="_blank">
 <i class="fab fa-linkedin"></i>
 </a>
@@ -47,7 +47,7 @@ target="_blank">
 {%- if site.twitter -%}
 <a title="{{ _locale_string_follow | replace: '[NAME]', 'Twitter' }}"
 class="social-button twitter"
-href="https://www.twitter.com/{{ varchanaiyer_ }}" itemprop="sameAs"
+href="https://www.twitter.com/{{ site.twitter }}" itemprop="sameAs"
 target="_blank">
 <i class="fab fa-twitter"></i>
 </a>
