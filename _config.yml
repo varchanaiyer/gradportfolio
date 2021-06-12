@@ -5,7 +5,7 @@ description: AI Engineer, Continental Automotive | Leadership Fellow, Women Who 
 
 baseurl: /gradportfolio #name of GitHub repository
 url: #custom url to be used instead of GitHub repository
-email: #
+email: varchanaiyer139@gmail.com
 
 
 highlighter: rouge
@@ -20,7 +20,7 @@ paginate_path: /blog/page:num/
 #facebook: "#"
 twitter: varchanaiyer_
 linkedin: archana-iyer
-github: "#varchanaiyer"
+github: varchanaiyer
 #researchgate: "#"
 #orcid: "#"
 
