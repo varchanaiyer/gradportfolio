@@ -2,7 +2,7 @@
 
 title: Vaidheeswaran Archana
 description: Data Scientist, DHL Express | 
-             Senior Leadership Fellow, Product Specialist Women Who Code
+           Data Product Manager, Product Specialist Women Who Code
 
 baseurl: /gradportfolio #name of GitHub repository
 url: #custom url to be used instead of GitHub repository
@@ -30,6 +30,7 @@ markdown: kramdown
 
 # Tracker
 analytics:
+google_analytics: U G-FRXS9P3W29
 
 #optimization -> compress.html
 compress_html:
